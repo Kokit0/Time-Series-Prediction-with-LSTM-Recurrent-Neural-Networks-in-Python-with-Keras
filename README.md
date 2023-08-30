@@ -77,6 +77,8 @@ Follow these steps to set up your environment and run the code:
 4. Install the required packages:
 
    ```bash
+   python.exe -m pip install --upgrade pip
+   
    pip install -r requirements.txt
    ```
 
