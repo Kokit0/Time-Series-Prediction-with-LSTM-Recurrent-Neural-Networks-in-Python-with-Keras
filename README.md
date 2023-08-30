@@ -49,7 +49,7 @@ Follow these steps to set up your environment and run the code:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Kokit0/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras.git
+   git clone https://github.com/Kokit0/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras
    ```
 
 2. Navigate to the project directory (Change the name if you like):
