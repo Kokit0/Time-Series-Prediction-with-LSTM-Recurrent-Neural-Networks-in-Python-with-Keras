@@ -23,8 +23,6 @@ In this tutorial, we will develop a number of LSTMs for a standard time series p
 
 These examples will show exactly how you can develop your own differently structured LSTM networks for time series predictive modeling problems.
 
-**Kick-start your project** with my new book [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/), including *step-by-step tutorials* and the *Python source code* files for all examples.
-
 Let’s get started.
 
 - **Jul/2016**: First published
